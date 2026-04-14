@@ -1,5 +1,9 @@
 # Parth Saini
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=900&lines=Backend+%C2%B7+Systems+%C2%B7+AI%2FML+Engineer+@+IIT+Roorkee;SDE+Intern+@+Deutsche+Bank+%7C+Distributed+Systems;C%2B%2B+%C2%B7+Java+%C2%B7+Python+%C2%B7+Spring+Boot+%C2%B7+ZooKeeper;Dean+Academic+Award+2024+%7C+IIT+Roorkee" alt="Typing SVG" />
+</div>
+
 Backend, systems, and AI/ML engineer. Final year at IIT Roorkee.
 
 I build things that have to handle real load: in-memory databases, distributed coordination systems, REST APIs that don't fall over. I also work across data pipelines and ML systems. I care about correctness, performance, and writing code that's actually maintainable.
